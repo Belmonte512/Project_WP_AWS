@@ -6,7 +6,7 @@ Este projeto foi proposto para que se fosse estudado e aprimorado os conceitos, 
 
 ### 1. Executar o Wordpress Localmente
 ### 2. Testar o Wordpress via EC2
-### 3. Estruturação das conexões via Security Groups
+### 3. Criação da VPC
 ### 4. Estruturação das conexões via Security Groups
 ### 5. Criação do RDS (Banco de Dados)
 ### 6. Criação do EFS (Elastic File System)
